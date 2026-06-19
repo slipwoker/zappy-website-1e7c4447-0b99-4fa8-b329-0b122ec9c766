@@ -1,0 +1,82 @@
+# ישראל היום — Generative Engine Optimization Map
+
+> A news media website similar to Israel Hayom newspaper, featuring personalized news reading where users can select and filter news according to their preferences. The site includes a barcode scanning feature, suggesting a hybrid digital-print integration where readers can scan barcodes (possibly from the physical newspaper) to access content online. The platform emphasizes personalization and user-curated news consumption.
+
+---
+
+## Pages
+
+### בית
+https://-1e7c4447.zappy5.app
+ישראל היום מזמין אתכם לחוויית חדשות מותאמת אישית שלא הכרתם. בחרו נושאים, סננו תכנים וקראו רק מה שמעניין אתכם. הצטרפו עכשיו למהפכת החדשות הדיגיטלית!
+
+### קריאה מותאמת אישית
+https://-1e7c4447.zappy5.app/personalized-reading
+עם ישראל היום אתם המנהלים: צרו פרופיל קריאה אישי, בחרו קטגוריות מועדפות וקבלו עדכונים שמדברים אליכם. התחילו לעצב את סדר היום החדשותי שלכם!
+
+### חוויית הדפסה וסריקה
+https://-1e7c4447.zappy5.app/print-scan
+חוויית סריקת ברקוד ייחודית מבית ישראל היום מחברת בין העיתון המודפס לעולם הדיגיטלי. סרקו, גלו תכנים בלעדיים והעמיקו בכל כתבה. נסו את הקסם עכשיו!
+
+### אודות
+https://-1e7c4447.zappy5.app/about
+ישראל היום מוביל עיתונות אישית ומשלבת דפוס ודיגיטל. גלו איך אנחנו מעצימים קוראים לבחור, לסנן ולסרוק את הדרך שלהם לחדשות. הציצו מאחורי הקלעים!
+
+### צור קשר
+https://-1e7c4447.zappy5.app/contact
+יש לכם רעיון, שאלה או בקשה? צרו קשר עם צוות ישראל היום והיו חלק מעיצוב חוויית החדשות האישית שלכם. אנחנו מחכים לשמוע מכם עוד היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1e7c4447.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1e7c4447.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1e7c4447.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-1e7c4447.zappy5.app/contact
+- Endpoint: https://-1e7c4447.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ישראל היום
+A news media website similar to Israel Hayom newspaper, featuring personalized news reading where users can select and filter news according to their preferences. The site includes a barcode scanning feature, suggesting a hybrid digital-print integration where readers can scan barcodes (possibly from the physical newspaper) to access content online. The platform emphasizes personalization and user-curated news consumption.
+
+## Target Audience
+- מבוגרים צעירים טכנולוגיים
+- כוח עבודה מקצועי
+- סטודנטים ואקדמאים
+
+## Industry
+News Media
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1e7c4447.zappy5.app/sitemap.xml
+- Robots: https://-1e7c4447.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1e7c4447.zappy5.app/llms-full.txt
