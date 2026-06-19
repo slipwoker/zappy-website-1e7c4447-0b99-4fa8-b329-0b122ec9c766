@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: xbchcvc@chcb
+- Phone: +9728586888
+- Phone (tel): tel:+9728586888
+- Address: מהמהנ, בנ"", ישראל היום, מהנהננ, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
